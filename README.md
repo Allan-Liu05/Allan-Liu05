@@ -17,7 +17,7 @@ class ElectricalEngineer:
       }
       "hobbies" : {
         "sports" : ["Rugby", "Rowing"],
-        "arts" :  "Piano"
+        "arts" :  "Piano", "Dance"
       }
     }
     print(aboutMe)
