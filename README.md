@@ -13,8 +13,13 @@ class ElectricalEngineer:
         "languages" : ["C", "C++", "Javascript", "Java", "Python"],
         "developer tools" : ["VSCode", "Altium", "Fusion360"],
         "hardware" : ["STM32", "Raspberry Pi"],
-        "misc" : ["Git", "STLink", "GDB", "GCC", "Make", "GTest", "FreeRTOS"]
+        "misc" : ["Git", "STLink", "GDB", "GCC", "Make", "GTest", "FreeRTOS"
+      }
+      "hobbies" : {
+        "sports" : ["Rugby", "Rowing"],
+        "arts" :  "Piano"
       }
     }
-    print(aboutMe)    
+    print(aboutMe)
+      
 ```
