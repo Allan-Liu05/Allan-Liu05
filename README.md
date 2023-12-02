@@ -9,7 +9,7 @@ class ElectricalEngineer:
   def moreInfo(self):
     aboutMe = {
       "currentFocus" : "Working on furthering my knowledge of electrical hardware design and embedded systems",
-      "Technologies" : {
+      "technologies" : {
         "languages" : ["C", "C++", "Javascript", "Java", "Python"],
         "developer tools" : ["VSCode", "Altium", "Fusion360"],
         "hardware" : ["STM32", "Raspberry Pi"],
