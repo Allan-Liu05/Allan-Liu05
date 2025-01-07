@@ -1,10 +1,10 @@
 
 ```python
-class ElectricalEngineer:
+class AllanLiu:
   def __init__(self):
-    self.name = "Allan Liu"
-    self.education = "University of Waterloo Electrical Engineering"
-    self.location = "Canada"
+    self.program = "Electrical Engineering"
+    self.education = "University of Waterloo"
+    self.location = "Waterloo, Canada"
 
   def moreInfo(self):
     aboutMe = {
@@ -20,6 +20,7 @@ class ElectricalEngineer:
         "arts" :  "Piano", "Dance"
       }
     }
-    print(aboutMe)
+me = AllanLiu()
+print(me.moreInfo())
       
 ```
