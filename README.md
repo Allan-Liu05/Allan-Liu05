@@ -20,7 +20,6 @@ class AllanLiu:
         "arts" :  "Piano", "Dance"
       }
     }
-me = AllanLiu()
-print(me.moreInfo())
+
       
 ```
